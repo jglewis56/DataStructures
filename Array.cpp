@@ -1,4 +1,5 @@
-//C:\\Users\\jorda\\Documents\\Visual Studio 2015\\Projects\\DataStructures-Hw1\\prez.txt
+
+
 #include <iostream>
 #include <fstream>
 #include <string>
