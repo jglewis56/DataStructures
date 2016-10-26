@@ -1,3 +1,6 @@
+//This is a binary tree without recursion, the point of this program is to read in a list of presidents in chronological order and build an 
+//alphabetical list and print out the contents.
+
 #include<iostream>
 #include<string>
 #include<fstream>
